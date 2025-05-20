@@ -20,7 +20,8 @@
 
 ---
 ### 📊 Mis estadísticas
-![jcharris37 GitHub stats](https://github-readme-stats.vercel.app/api?username=jcharris37&show_icons=true&theme=radical)
+![JosephDevs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephDevs&show_icons=true&count_private=true&theme=radical)
+
 
 ---
 ### 🔀 Version Control
