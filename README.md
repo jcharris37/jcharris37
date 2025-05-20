@@ -20,7 +20,7 @@
 
 ---
 ### 📊 Mis estadísticas
-![JosephDevs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephDevs&show_icons=true&count_private=true&theme=radical)
+![Estadísticas de JosephDevs](https://github-readme-stats.vercel.app/api?username=JosephDevs&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 
 ---
@@ -38,6 +38,5 @@
 ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 
----
-### 📑 Documentation Platforms
+
 
