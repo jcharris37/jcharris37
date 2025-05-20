@@ -12,7 +12,7 @@
 - 🔗 [proyecto-final-modelamiento](https://github.com/jcharris37/proyecto-final-modelamiento) — Sistema completo en Flask + MySQL  
 - 🔗 [base_datos_py_flask](https://github.com/jcharris37/base_datos_py_flask) — Backend en Python con base de datos  
 - 🔗 [catalogo.actualizacion](https://github.com/jcharris37/catalogo.actualizacion) — Sistema web visual
-- 🔗 [catalogo.actualizacion](https://github.com/jcharris37/catalogo.actualizacion) — Sistema web visual
+- 🔗 [MCL_predichon_bitcoin](https://github.com/jcharris37/MCL_predichon_bitcoin) — Machine Learning-Prediccion de bitcoin
 
 ---
 ### 🛠️ Tecnologías que uso
