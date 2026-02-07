@@ -2,7 +2,6 @@
 # 👋 ¡KLk! Soy Joseph Charris
 
 🎓 Estudiante de Ingeniería en Sistemas  
-💻 Apasionado por el desarrollo web y backend  
 🚀 Me gusta crear soluciones prácticas que integren frontend y backend  
 📫 Contacto: josephcharrissilvera@gmail.com
 
