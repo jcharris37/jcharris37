@@ -1,5 +1,5 @@
 
-# 👋 ¡KLk! Soy Joseph Charris
+# 👋 ! Soy Joseph Charris
 
 🎓 Estudiante de Ingeniería en Sistemas  
 🚀 Me gusta crear soluciones prácticas que integren frontend y backend  
